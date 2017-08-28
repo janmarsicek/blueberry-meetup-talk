@@ -6,9 +6,8 @@
 - [Fotky z meetupu](https://flic.kr/s/aHskz7hzax)
 
 ## Záznam talku
-[![Styling React Native Applications](http://img.youtube.com/vi/8HqqU5AbhCE/0.jpg)](http://www.youtube.com/watch?v=8HqqU5AbhCE)
+[![Styling React Native Applications](http://img.youtube.com/vi/y96BlV3i5b0/0.jpg)](https://www.youtube.com/watch?v=y96BlV3i5b0)
 
 -------------
 
 [#blueberrymeetup](http://www.blueberry.cz/meetup)
-
